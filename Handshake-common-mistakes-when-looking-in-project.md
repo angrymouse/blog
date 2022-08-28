@@ -1,7 +1,7 @@
 # Handshake: COmmon mistakes when looking into the project.
 Hey namers! Today I've been sitting in Handshake DNS discord, and accidently looked into #shitpost channel. Then found [this article](https://akshat.sh/posts/handshake-scam/).
 I've read it, and obviously I understood that person didn't dig enough and didn't ask question "why?". Then I thought and understood that everybody can make such mistakes when looking in handshake.
-So I decided to answer to author of this post and everybody else who will have same questions as author of it.
+So I decided to answer to author of this post and everybody else who will have same questions.
 
 So let's start.
 
